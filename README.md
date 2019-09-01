@@ -2,7 +2,7 @@
 |---|---|
 |Victor Hugo Dias Coelho| 16/0019401|
 
-# Trabalho_1_VIctor_Hugo_Dias_Coelho
+# Trabalho_1_Victor_Hugo_Dias_Coelho
 Trabalho 1 de grafo 
 
 ## Antes de executar
